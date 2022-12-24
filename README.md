@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @zumosol
-- 👀 I’m interested in trying to find out, how to integrate and use Webcore with Samsung Smartthing.. so far I end here 😂
+- 👀 I’m interested in trying to find out, how to integrate and use Webcore with Samsungs Smartthing.. so far I end here 😂
